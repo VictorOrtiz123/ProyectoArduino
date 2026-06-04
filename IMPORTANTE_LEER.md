@@ -11,3 +11,6 @@
 En este repositorio se encuentran los archivos correspondientes al proyecto de Arduino desarrollado para la asignatura Arquitectura Computacional, Grupo A.
 
 El proyecto consiste en el desarrollo de un sistema de control de acceso implementado en Arduino. El repositorio incluye el código fuente, la documentación generada con Doxygen y el informe final del proyecto.
+
+## VIDEO DEL SISTEMA FUNCIONANDO:
+https://drive.google.com/drive/folders/145-4lzQrQDNr3BaLK8dNZTybjrB1PIbA
